@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/close_hover.svg</file>
+        <file>pics/close.svg</file>
+        <file>pics/file-add-line.svg</file>
+        <file>pics/folder-5-line.svg</file>
+        <file>pics/save-3-line.svg</file>
+        <file>pics/close-circle-fill.svg</file>
+        <file>pics/file-edit-fill.svg</file>
+        <file>theme.css</file>
+        <file>pics/logo.svg</file>
+    </qresource>
+</RCC>
